@@ -1,0 +1,19 @@
+.pie{
+    justify-content: space-between;
+    align-items: center;
+    border: black solid;
+    display: flex;
+    padding: 10px 20px;
+    height: 75px;
+    box-shadow: 5px 5px 5px 5px darkred;
+}
+
+.iconos{
+    gap: 10px;
+    display: flex;
+}
+
+.icono{
+    width: 30px;
+    height: 30px;
+}

@@ -1,0 +1,26 @@
+.contenedordetalle{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: goldenrod
+    
+}
+
+.contenedorimg{
+width: 600px;
+border-radius: 10px;
+}
+
+.img{
+    width: 150px;
+    border-radius: 10px;
+}
+
+.contenedortitulo{
+width: 100%;
+padding: 50px;
+
+
+}
